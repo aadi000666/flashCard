@@ -2,7 +2,7 @@
 
 A simple Python project that uses **Generative AI** to automatically create 5 Question & Answer flashcards from any topic.
 
-## 🚀 Features
+## 🚀 Features 👍
 
 - Enter any topic
 - AI generates 5 simple flashcards
@@ -81,6 +81,4 @@ env/
 .vscode/
 .idea/
 
-# OS files
-.DS_Store
-Thumbs.db
+#there complete aur flash card project________________-------------- 
